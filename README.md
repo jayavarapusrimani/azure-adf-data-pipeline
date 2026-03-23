@@ -19,4 +19,4 @@ Bronze → Silver → Gold architecture using ADLS Gen2
 - Parameterized pipelines
 
 ## Screenshots
-(Add ADF pipeline screenshots here)
+
