@@ -61,8 +61,6 @@ The pipeline follows a multi-layer data architecture:
 
 ## Screenshots
 
-(Add screenshots here)
-
 * ADF Pipeline Design
 * Dataflow Transformation
 * Pipeline Trigger / Schedule
